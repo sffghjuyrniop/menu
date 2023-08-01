@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box2 {
+    width: 95%;
+    height: 100vh;
+}
+.box1 {
+    width: 500px;
+    height: 170px;
+    position: absolute;
+    bottom: 100px;
+    left: -50px;
+}

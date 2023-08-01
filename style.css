@@ -1,0 +1,12 @@
+body {
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1 {
+    width: 289px;
+    position: absolute;
+    height: 103px;
+    bottom: 68px;
+    left: 33px;
+}

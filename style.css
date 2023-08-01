@@ -3,12 +3,12 @@
 }
 .box2 {
     width: 90%;
-    height: 110vh;
+    height: 120vh;
 }
 .box1 {
-    width: 550px;
+    width: 750px;
     height: 170px;
     position: absolute;
-    bottom: -12px;
-    left: -59px;
+    bottom: -40px;
+    left: -50px;
 }

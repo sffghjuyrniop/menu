@@ -1,5 +1,5 @@
 *{
-    padding: -3px;
+    padding: -4px;
     margin: 0px;
     box-sizing: border-box;
 }
@@ -11,6 +11,6 @@
     width: 503px;
     height: 170px;
     position: absolute;
-    bottom: -200px;
+    bottom: -150px;
     left: -12px;
 }

@@ -1,0 +1,18 @@
+body {
+    background-image: url(Untitled-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1 {
+    width: 289px;
+    position: absolute;
+    height: 103px;
+    bottom: 100px;
+    left: 50px;
+}
+.footer {
+       width: 1080px;
+       position: absolute;
+       bottom: 0px;
+       background-color: #16181e;
+}

@@ -1,8 +1,11 @@
+* {
+    padding: 0px;
+}
 body {
     background-image: url(Untitled-2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 0px;
+    
 }
 .box1 {
     width: 289px;
@@ -12,6 +15,7 @@ body {
     left: 50px;
 }
 .footer {
+       height: 20px;
        width: 1080px;
        position: absolute;
        bottom: 0px;

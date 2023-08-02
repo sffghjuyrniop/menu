@@ -2,6 +2,7 @@ body {
     background-image: url(Untitled-2.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 0px;
 }
 .box1 {
     width: 289px;

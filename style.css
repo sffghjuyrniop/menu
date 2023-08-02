@@ -1,5 +1,6 @@
 * {
     padding: 0px;
+    margin: 0px;
 }
 body {
     background-image: url(Untitled-2.png);
@@ -15,7 +16,7 @@ body {
     left: 50px;
 }
 .footer {
-       height: 20px;
+       
        width: 1080px;
        position: absolute;
        bottom: 0px;
